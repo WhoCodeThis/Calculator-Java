@@ -37,11 +37,10 @@ This **Calculator** is a simple Java application with a Swing-based graphical us
    ```bash
    git clone https://github.com/your-username/Calculator-Java.git
    cd Calculator-Java
-   ## How to Run
 
 2. **Compile (if using the command line)**:
    ```bash
-    javac com/calculator/Calculator.java
+   javac com/calculator/Calculator.java
 
 3. **Run:**:
    ```bash
