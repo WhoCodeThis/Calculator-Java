@@ -36,7 +36,7 @@ This **Calculator** is a simple Java application with a Swing-based graphical us
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/Calculator-Java.git
-   cd Calculator-Java
+   cd Calculator_Java\src\
 
 2. **Compile (if using the command line)**:
    ```bash
