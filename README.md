@@ -27,7 +27,7 @@ This **Calculator** is a simple Java application with a Swing-based graphical us
 
 ## Requirements
 
-- Java 8 or higher (tested primarily on Java 8).
+- Java 8 or higher (tested primarily on Java 21).
 
 ---
 
